@@ -63,5 +63,3 @@ php artisan serve
 
 13. Buka browser dan akses `http://localhost:8000`
 
-## LICENSE
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details and [CONTRIBUTING](CONTRIBUTING.md) for contribution guidelines. Developed with ❤️ by Andika Tulus Pangestu.
